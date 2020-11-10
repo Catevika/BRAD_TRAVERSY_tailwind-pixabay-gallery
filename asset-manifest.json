@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tailwind-pixabay-gallery/static/css/main.90d130ad.chunk.css",
+    "main.js": "/tailwind-pixabay-gallery/static/js/main.9d9dd227.chunk.js",
+    "main.js.map": "/tailwind-pixabay-gallery/static/js/main.9d9dd227.chunk.js.map",
+    "runtime-main.js": "/tailwind-pixabay-gallery/static/js/runtime-main.e081ceae.js",
+    "runtime-main.js.map": "/tailwind-pixabay-gallery/static/js/runtime-main.e081ceae.js.map",
+    "static/js/2.fe382d74.chunk.js": "/tailwind-pixabay-gallery/static/js/2.fe382d74.chunk.js",
+    "static/js/2.fe382d74.chunk.js.map": "/tailwind-pixabay-gallery/static/js/2.fe382d74.chunk.js.map",
+    "static/js/3.cf4623a1.chunk.js": "/tailwind-pixabay-gallery/static/js/3.cf4623a1.chunk.js",
+    "static/js/3.cf4623a1.chunk.js.map": "/tailwind-pixabay-gallery/static/js/3.cf4623a1.chunk.js.map",
+    "index.html": "/tailwind-pixabay-gallery/index.html",
+    "static/css/main.90d130ad.chunk.css.map": "/tailwind-pixabay-gallery/static/css/main.90d130ad.chunk.css.map",
+    "static/js/2.fe382d74.chunk.js.LICENSE.txt": "/tailwind-pixabay-gallery/static/js/2.fe382d74.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e081ceae.js",
+    "static/js/2.fe382d74.chunk.js",
+    "static/css/main.90d130ad.chunk.css",
+    "static/js/main.9d9dd227.chunk.js"
+  ]
+}
